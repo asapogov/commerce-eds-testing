@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/asapogov/commerce-eds-testing/
+    type: markup
+
+folders:
+  /products/: /products/default
